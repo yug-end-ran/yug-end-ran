@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @yug-end-ran
+- 👀 I’m interested in  programming languages...
+- 🌱 I’m currently learning  sas programming...
+- 💞️ I’m looking to collaborate on clinical sas projects...
+
+<!---
+yug-end-ran/yug-end-ran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
